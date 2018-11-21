@@ -55,13 +55,13 @@ body{
   
 }
 .third .ad{
-  width:200px;
-  height:200px;
-  border-radius: 150px;
+  width:220px;
+  height:220px;
 
 }
 .third img{
   border-radius: 150px;
+  padding: 2px;
 }
 
 
